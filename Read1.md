@@ -16,5 +16,12 @@ Emphasis     | Syntax
 _ _ | This will also be italic
 _ txt_ *txt* _ | _You **can** combine them_
 
+Links        | Syntax
+------------ | ------------
+[the name](the lik) | [GitHub Pages](https://pages.github.com/)
+
+
+### for more Detailes [see This](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
+
 
 
