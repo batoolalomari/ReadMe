@@ -24,3 +24,6 @@ Distributed Version Control | allows clients to create mirrored repositories
 -Import existing project or directory into Git
 -Cloning : You can also create a copy of an existing Git repository from a particular server by using the clone command with a repository’s URL
 
+
+## To know how Git *_Workflow_* open this section WORKFLOW [link](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/) 
+
