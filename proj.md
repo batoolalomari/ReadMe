@@ -16,9 +16,9 @@ Distributed Version Control | allows clients to create mirrored repositories
 -Local Operations
 -Tracking Changes
 
-# *Yoc can download it from here for [windows](http://git-scm.com/download/win) *
-# *Yoc can download it from here for [Mac](http://git-scm.com/download/mac) *
-# *Yoc can download it from here for [Linux](http://git-scm.com/download/linux) *
+# *Yoc can download it from here for [windows](http://git-scm.com/download/win)*
+# *Yoc can download it from here for [Mac](http://git-scm.com/download/mac)*
+# *Yoc can download it from here for [Linux](http://git-scm.com/download/linux)*
 
 ## Setting up a Git Repository:
 -Import existing project or directory into Git
