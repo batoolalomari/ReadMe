@@ -4,7 +4,7 @@ it to see the changes that made on it (history).*
 
 *There is a three type of version control* 
 
-                  | 
+   Type           | Fnction
 ----------------- | -----------------
 Local control | that store changes on yourr hard disk
 Centralized Version Control | that store changes on a sigle server that can be acsess by multiple client
