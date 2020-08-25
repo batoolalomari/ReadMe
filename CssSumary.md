@@ -16,5 +16,5 @@ hex code | h2 {color: #ee3e80;}
 rgb value | p {color: rgb(100,100,90);}
 
 
-Color terminology and contrast?
-Background color?
+# Color terminology and contrast?
+# Background color?
