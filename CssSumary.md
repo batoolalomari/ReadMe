@@ -15,6 +15,13 @@ color name | h1 { color: DarkCyan;}
 hex code | h2 {color: #ee3e80;}
 rgb value | p {color: rgb(100,100,90);}
 
+# Background color?
+By default, most browser windows have a white background,You can specify your choice of background color in the same three ways you can specify foreground colors: RGB values, hex codes, and color names , If you do not specify a background color, then the background is transparent. 
+
+##Note 
+We have also used the padding property to separate the text from the edges of the boxes, This makes it easier to read.
+
 
 # Color terminology and contrast?
-# Background color?
+When picking foreground and background colors, it is important to ensure that there is enough contrast for the text to be legible.
+
