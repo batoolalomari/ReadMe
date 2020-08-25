@@ -9,7 +9,11 @@ there are three common ways in which you can indicate your choice of colors :
 2-HEX codes : These are six-digit codes that represent the amount of red, green and blue in a color, preceded by a pound or hash #sign. For example: #ee3e80
 3-Color names : There are 147 predefined color names that are recognized by browsers. For example: DarkCyan
 
-
+Tag  | Exampel
+---- | ----
+color name | h1 { color: DarkCyan;}
+hex code | h2 {color: #ee3e80;}
+rgb value | p {color: rgb(100,100,90);}
 
 
 Color terminology and contrast?
