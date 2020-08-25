@@ -33,6 +33,13 @@ When picking foreground and background colors, it is important to ensure that th
 - Text is easier to read when there is higher contrast between background and foreground colors.
 - For long spans of text, reducing the contrast a little bit improves readability.
 
+
+# Note
+- It is important to ensure that there is enough contrast between any text and the background color (otherwise people will not be able to read your content).
+- CSS3 has introduced an extra value for RGB colors to indicate opacity. It is known as RGBA.
+- CSS3 also allows you to specify colors as HSL values, with an optional opacity value. It is known as HSLA.
+
+
 [To check contrast there is a handy online tool at:]( www.snook.ca/technical/colour_contrast/colour.html).
 
 # CSS 3: Opacity (opacity, rgba):
