@@ -27,6 +27,22 @@
    2: DESIGN THE SCRIPT
    3: CODE EACH STEP
    
+   ![Script](https://github.com/batoolalomari/ReadMe/blob/master/Untitled.png)
+   
+   # EXPRESSIONS
+   An expression evaluates into (results in) a single value. Broadly speaking there are two types of expressions.
+   
+   exprission that  *ASSIGN A VALUE TO A VARIABLE* In order for a variable to be useful, it needs to be given a value. As you have seen, this is done using the assignment operator (the equals sign)
+**var color = 'beige'; The value of co 1 or is now beige.**
+
+expession that  **USE TWO OR MORE VALUES TO** RETURN A SINGLE VALUE
+**var area = 3 * 2; The value of area is now 6.**
+
+  # OPERATORS
+  Expressions rely on things called operators; they allow programmers to create a single value from one or more values.
+
+
+
    
 
    
