@@ -92,7 +92,21 @@ The <dfn> element is used to indicate the defining instance of a new term.
   unorderd | lists that begin with a bullet point | <ul><li>Chop potatoes into quarters</li></ul>
   definition | are made up of a set of terms along with the definitions for each of those terms. | <dl><dt>Sashimi</dt><dd>Sliced raw fish</dd></dl>
   
-  
+  # Nested List
+    **EX:**
+   <ul>
+   <li>Mousses</li>
+   <li>Pastries
+   <ul>
+   <li>Croissant</li>
+   <li>Mille-feuille</li>
+   <li>Palmier</li>
+   <li>Profiterole</li>
+   </ul>
+   </li>
+   <li>Tarts</li>
+   </ul> 
+    
   
   
   
