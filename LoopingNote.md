@@ -35,7 +35,7 @@ operator     | example
  !=== | 1=== 3  is 1 and 3 not have the same data type
  
  operator     | example 
------------- | ------------ 
+------------  | ------------ 
  > | 1>1 is 1 grater than 1 
  >= | 1>=2 is 1grater or equla 2
  < | 1<1 is 1 less than 1
