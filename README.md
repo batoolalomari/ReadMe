@@ -2,9 +2,13 @@
 
 ## Reading-notes
 *hg
+______
 `gh`
+_____
 *uo
+___
 >hj
+____
 &gh
 
 *I am batool alomari 21 years old , a fresh graduated student from jordan university of science and technology , software engineering major .*
