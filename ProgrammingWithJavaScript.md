@@ -17,4 +17,16 @@
     -  A web page has finished loading
     
   # What is a script :
-   A script is a series of instructions that a computer can follow to achieve a goal.
+   A script is a series of instructions that a computer can follow to achieve a goal, it is made up of instruction a computer can follow step by steb . A browser may use diffierent parts of the script depending on how the user interact with the web bage .
+   
+   To write a script, you need to first state your goal and then list the tasks that need to be completed in order to achieve it. Some of the scripts you will be reading or writing when you have fin ished this book will be quite complicated and might look intimidating at first. However, a script is just a series of short instructions, each of which is performed in order to solve the problem in hand. This is why creating a script is like writing a recipe or manual that allows acomputer to solve a puzzle one step at a time.
+   
+   # WRITING A SCRIPT
+   
+   1: DEFINE THE GOAL
+   2: DESIGN THE SCRIPT
+   3: CODE EACH STEP
+   
+   
+
+   
