@@ -32,11 +32,11 @@ operator | example
 == | 1==2 (is 1 eaqual 1)
 != | 1!=2 (is i not equal 2)
 === | 1==='3' (is 1 and 3 have the same data type)
-!=== | 1=== 1 (is is 1 and 3 not have the same data type
-> | 1>1 is grater than 1
->= | 1>=1 is 1 grater or equal than 1
-<= | 1<=1 is 1 less or equal than 1
-< | 1<=1 is 1 grater than 1
+!=== | 1=== 1 (is is 1 and 3 not have the same data type)
+> | 1>1 (is grater than 1)
+>= | 1>=1 (is 1 grater or equal than 1)
+<= | 1<=1 (is 1 less or equal than 1)
+< | 1<=1 (is 1 grater than 1)
 
 oerator    | example 
 ---------- | ----------
