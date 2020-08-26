@@ -36,10 +36,10 @@ operator     | example
  
 oerator    | example 
 ---------- | ----------
-> | 1>2 (is 1 grater than 2)
->= | 1>=2 (is i grater than or equal 2)
-< | 1< 3 (is 1 less than 3)
-<= | 1<= 1 (is is 1 less than or equal)
+(>) | 1>2 (is 1 grater than 2)
+(>=) | 1>=2 (is i grater than or equal 2)
+(<) | 1< 3 (is 1 less than 3)
+(<=) | 1<= 1 (is is 1 less than or equal)
 
 
 
