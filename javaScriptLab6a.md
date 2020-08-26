@@ -9,7 +9,7 @@ it is recomended to add each one on the seprate file with extenstion ** .html fo
   
   # How to use object and methoods
   
-  ###**document.write('Heloo');**
+  ### **document.write('Heloo');**
   
     - document: is an object all the web pages implement it and represent the entire web page 
     - . : is a mmember operater that use to accsess the document methood
@@ -25,7 +25,31 @@ it is recomended to add each one on the seprate file with extenstion ** .html fo
   
   # JS Instruction
     instruction | example
-    ----------- | ----------- 
+    ----------- | -----------
+    statement | var hourNow = today.getHours{) ;
+    comment | sigle(//) multiple line (/**/)
+    variable | x=3
+    
+  # What is a variable
+     
+     It store the data .The use of variables to represent numbers or other kinds of data is very similar to the concept of algebra. we define a varible like this :
+     
+     # **Var variable Name = value**
+     
+     dataType | example 
+     -------- | --------
+     number | var x=1
+     string | x='s'
+     boolean | x=true
+     
+     
+  # RULES FOR NAMING VARIABLES
+  1. The name must begin with a letter, dollar sign ($),or an underscore (_). It must not start with a number.
+  2. The name can contain letters, numbers, dollar sign ($), or an underscore (_). Note that you must not use a dash(-) or a period (.) in a variable name.
+  3. You cannot use keywords or reserved words. Keywords are special words that tell the interpreter to do something. For
+
+     
+     
     
     
   
