@@ -34,8 +34,8 @@ operator | example
 
 
 
-operator | example 
--------- | --------
+operator     | example 
+------------ | ------------ 
  == | 1==2 is 1 eaqual 1
  != | 1!=2 is i not equal 2
  === | 1==='3' is 1 and 3 have the same data type
